@@ -54,6 +54,5 @@ int main (int argc, char **argv)
     square<int>(s);
     square<int>(n);
 
-
     return 0;
 }
